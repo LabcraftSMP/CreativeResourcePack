@@ -1,4 +1,4 @@
-name: Deploy modpack to GitHub Pages
+name: Deploy resource pack to GitHub Pages
 
 on:
   # Runs on pushes targeting the default branch
