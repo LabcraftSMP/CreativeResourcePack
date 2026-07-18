@@ -23,7 +23,7 @@
             "file": "bsw_fix:font/fixed.png",
             "ascent": 7,
             "chars": [
-                "\u2589\u258b\u258d\u193a\u0000\u0000",
+                "\u2589\u258b\u258d\u193a\u08ea\u0000",
                 "\u258f\u073c\u2575\u0d3b\ud836\ude9d\ud834\udd6d"
             ]
         }
